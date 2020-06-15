@@ -28,9 +28,4 @@ class HomeController extends Controller
         return view('home',compact('questionnaires'));
     }
 
-    public function getroutes()
-    {
-        $contents = File::get('../routes/web.php');
-        echo $contents;
-    }
 }

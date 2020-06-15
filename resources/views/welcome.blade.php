@@ -83,11 +83,7 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
-                <div class="d-flex">
-                    <a href="/getroutes/">GetRoutes</a>
 
-                    </p>
-                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
